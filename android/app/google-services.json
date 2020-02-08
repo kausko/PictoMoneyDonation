@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814652802125",
+    "firebase_url": "https://money-donation-dab0e.firebaseio.com",
+    "project_id": "money-donation-dab0e",
+    "storage_bucket": "money-donation-dab0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814652802125:android:7d0ce3d5b2a1fe5151c804",
+        "android_client_info": {
+          "package_name": "com.example.moneydonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814652802125-hp86rt7a7s05gh1j5b5okcgr4k1r5hho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneydonation",
+            "certificate_hash": "1b98962068a0065a9b682433042b8b62c9b38165"
+          }
+        },
+        {
+          "client_id": "814652802125-73ll086mrktenim1jee64i87trbi2575.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-54D8wg2xW43mH9WVjPfutLUh770cX3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814652802125-73ll086mrktenim1jee64i87trbi2575.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
